@@ -19,4 +19,4 @@
 (Responsive layout layout 1920 - 320 px. Building a project with WEBPACK. HTML5, CSS3, Java Script, 
  Image and Font Optimization, two libraries connected and configured using Java Script (SWIPER and accordion)). 
 
-<img src="https://github.com/jaroslava87/evclid/blob/master/src/img/evclid-preview.jpg" width="300px">
+<img src="https://github.com/jaroslava87/previews/blob/main/evclid-preview.jpg" width="300px">
